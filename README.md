@@ -1,5 +1,10 @@
 # Vue-Store
 
+This project is a web-based application designed for practice purposes, modeled after a typical online shop website. It allows users to browse a catalog of items, add them to a shopping cart, and view the total price of their selections. The application is built using Vue.js and leverages the Vuex state management library to manage the state of the shopping cart. Through this project, users can gain practical experience in implementing core Vue.js and Vuex concepts such as data binding, computed properties, and mutations/actions.
+
+### [Credits](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+
+# Vue.js
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
