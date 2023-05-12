@@ -2,6 +2,8 @@
 
 This project is a web-based application designed for practice purposes, modeled after a typical online shop website. It allows users to browse a catalog of items, add them to a shopping cart, and view the total price of their selections. The application is built using Vue.js and leverages the Vuex state management library to manage the state of the shopping cart. Through this project, users can gain practical experience in implementing core Vue.js and Vuex concepts such as data binding, computed properties, and mutations/actions.
 
+### [Certificate](https://www.udemy.com/certificate/UC-9601468e-cbce-4dae-a27f-3f8be90af17e/)
+
 ### [Credits](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
 # Vue.js
